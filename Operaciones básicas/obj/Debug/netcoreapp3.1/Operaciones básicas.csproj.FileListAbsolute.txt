@@ -1,0 +1,13 @@
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.exe
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.deps.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.runtimeconfig.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.runtimeconfig.dev.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.csproj.AssemblyReference.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.AssemblyInfoInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.AssemblyInfo.cs
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.csproj.CoreCompileInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.genruntimeconfig.cache
